@@ -1,0 +1,7 @@
+Streamlit
+pandas 
+numpy
+matplotlib 
+seaborn 
+scipy
+streamlit-lottie
